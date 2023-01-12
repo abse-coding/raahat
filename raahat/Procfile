@@ -1,0 +1,1 @@
+web gunicorn raahat.wsgi:application --log-file -
